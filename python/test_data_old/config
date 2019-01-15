@@ -1,0 +1,6 @@
+l.h: 18
+l.w: 18
+l.batch: 4
+net.h: 576
+net.w: 576
+---dzhang debug---: yolo_layer, l.cost:1.306991
